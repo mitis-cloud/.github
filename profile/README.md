@@ -27,7 +27,7 @@ VEDI ANCHE
        noioso(1), prevedibile(1), silenzioso(8)
 ```
 
-**La prova, in pubblico** — [Understudy](https://github.com/kylan11/understudy):
+**La prova, in pubblico** — [Understudy](https://github.com/mitis-cloud/understudy):
 un operator Kubernetes (Apache 2.0) per l'alta disponibilità dei workload a
 replica singola. Su un'interruzione spot reale, misurata su EKS: 1 richiesta
 persa su 764 — meno di un normale rolling update.
